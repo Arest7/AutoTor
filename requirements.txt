@@ -1,0 +1,8 @@
+requests[socks]
+requests
+colorama
+termcolor
+pyfiglet
+cprint
+
+
