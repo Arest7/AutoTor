@@ -3,6 +3,7 @@ import sys
 import requests
 import socks
 import time
+import subprocess
 
 
 from colorama import init
