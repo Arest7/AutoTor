@@ -80,7 +80,7 @@ if int(lin) ==int(0):
 		try:
 			time.sleep(int(x))
 			change()
-			print(f'Your ip has been changed to: {r}')
+			print(get_tor_ip())
 		except KeyboardInterrupt:
 
 		 	print('\nauto tor is closed ')
