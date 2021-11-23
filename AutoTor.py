@@ -88,5 +88,7 @@ if int(lin) ==int(0):
 
 else:
 	for i in range(int(lin)):
-		    time.sleep(int(x))
-		    change()
+		time.sleep(int(x))
+		change()
+		print(get_tor_ip())
+		    
